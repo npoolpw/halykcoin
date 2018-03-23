@@ -15,5 +15,6 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["npool.pw/halykcoin", "http://ca.npool.pw:2250"]
+        ["npool.pw/halykcoin", "http://ca.npool.pw:2250"],
+        ["halykcoin.hol.es", "http://140.82.32.6:7118"]
 ];
